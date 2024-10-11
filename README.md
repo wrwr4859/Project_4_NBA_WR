@@ -15,23 +15,30 @@ In this project, the following techniques and models are used:
 - **Model Evaluation**: Cross-validation, feature importance analysis, and partial dependence plots for interpretability.
 
 ## Models Explored
-### 1. **Optimized Linear Regression (Model 2)**
+### 1. **Optimized Linear Regression**
 - **Technique**: Ordinary Least Squares (OLS) with optimization techniques.
 - **Evaluation**: R² Score: 0.84
 - **Strengths**: High interpretability.
 - **Limitations**: Struggles with non-linearity and multicollinearity.
   
-### 2. **Random Forest Regression with PCA (Model 4)**
+### 2. **Random Forest Regression with PCA**
 - **Technique**: Random Forest after dimensionality reduction using PCA.
 - **Evaluation**: R² Score: 0.80
 - **Strengths**: Robust to multicollinearity, capable of capturing non-linear relationships.
 - **Limitations**: Complexity and PCA may not fully capture feature interactions.
 
-### 3. **Random Forest Regression without PCA (Model 6)**
+### 3. **Random Forest Regression without PCA**
 - **Technique**: Random Forest on original features without dimensionality reduction.
 - **Evaluation**: R² Score: 0.80
 - **Strengths**: Flexibility, handles non-linear relationships, effective with large datasets.
 - **Limitations**: More complex and computationally intensive.
+
+### 4. **Neural Network Model with Adam Optimizer**
+- **Technique**: A feedforward neural network was applied to the scaled dataset.
+- **Evaluation**: R² Score: 0.86
+- **Strengths**: Accurate, handles non-linear relationships, effective with large datasets.
+- **Limitations**: Difficult to interpret, more complex and computationally intensive.
+![Sample Image](Images/Model_Loss_NNM_Best_Model.png)
 
 ## Dataset
 
