@@ -56,6 +56,7 @@ The dataset consists of NBA player playoff statistics from 2007 to 2024, with ar
 - `nba_analysis.ipynb`: Jupyter notebook containing all data analysis and machine learning code.
 - `Project 4 Report.pdf`: Analysis report including Overview, Data Processing, Models Developed, Conclusions and Recommendations.
 - `Project 4 Proposal.pdf`: Project proposal.
+- - `Project 4 Presentation.pdf`: Project presentation.
 - `README.md`: This README file.
 
 ## Usage
