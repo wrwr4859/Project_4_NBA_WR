@@ -26,12 +26,14 @@ In this project, the following techniques and models are used:
 - **Evaluation**: R² Score: 0.80
 - **Strengths**: Robust to multicollinearity, capable of capturing non-linear relationships.
 - **Limitations**: Complexity and PCA may not fully capture feature interactions.
+![Sample Image](Images/PCA_RandomForest_Feature_Importance.png)
 
 ### 3. **Random Forest Regression without PCA**
 - **Technique**: Random Forest on original features without dimensionality reduction.
 - **Evaluation**: R² Score: 0.80
 - **Strengths**: Flexibility, handles non-linear relationships, effective with large datasets.
 - **Limitations**: More complex and computationally intensive.
+![Sample Image](Images/_Feature_Importance_RandomForest_wo_PCA.png)
 
 ### 4. **Neural Network Model with Adam Optimizer**
 - **Technique**: A feedforward neural network was applied to the scaled dataset.
