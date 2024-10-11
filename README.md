@@ -1,4 +1,4 @@
-# Project-4_Wenli_Rui
+# Project-4
 # NBA Player Performance Analysis and Prediction
 
 This project analyzes NBA player performance metrics and applies various machine learning models to predict Player Impact Estimate (PIE) and group players based on performance patterns. The analysis is inspired by the movie *Moneyball* and aims to provide actionable insights into player performance, team strategy, and player development.
