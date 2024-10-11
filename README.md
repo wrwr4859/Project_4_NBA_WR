@@ -34,6 +34,7 @@ In this project, the following techniques and models are used:
 - **Strengths**: Flexibility, handles non-linear relationships, effective with large datasets.
 - **Limitations**: More complex and computationally intensive.
 ![Sample Image](Images/_Feature_Importance_RandomForest_wo_PCA.png)
+![Sample Image](Images/Partial_Dependency_RF_wo_PCA.png)
 
 ### 4. **Neural Network Model with Adam Optimizer**
 - **Technique**: A feedforward neural network was applied to the scaled dataset.
