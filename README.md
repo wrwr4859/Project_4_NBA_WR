@@ -84,6 +84,7 @@ The dataset consists of NBA player playoff statistics from 2007 to 2024, with ar
 - **Model Refinement**: Further tuning of neural networks and exploration of other models (e.g., XGBoost).
 - **New Metrics**: Integrate advanced player tracking data or defensive metrics to improve prediction accuracy.
 - **Expanded Timeframe**: Apply the model to more extensive regular-season datasets and compare performance trends.
+- **Feature Engineering**: Include additional feature engineering in the model to explore interaction amongs independent variables and their impact on PIE.
 
 ## Terminology
 - MIN (Minutes Played)
