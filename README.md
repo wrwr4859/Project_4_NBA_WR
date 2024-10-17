@@ -93,18 +93,19 @@ The dataset consists of NBA player playoff statistics from 2007 to 2024, with ar
   
 
 ## Terminology
-- MIN (Minutes Played)
-- OFFRTG (Offensive Rating)
-- DEFRTG (Defensive Rating)
-- EFG% (Effective Field Goal Percentage)
-- TS% (True Shooting Percentage)
-- USG% (Usage Percentage)
-- AST% (Assist Percentage)
-- AST/TO (Assist to Turnover Ratio)
-- OREB% (Offensive Rebounding Percentage)
-- DREB% (Defensive Rebounding Percentage)
-- REB% (Total Rebounding Percentage)
-- TO RATIO (Turnover Ratio)
-- PACE (Pace)
+- MIN (Minutes Played): The total number of minutes a player has spent on the court during the game or season.
+- OFFRTG (Offensive Rating): The number of points a player generates per 100 possessions.
+- DEFRTG (Defensive Rating): The number of points a player allows per 100 possessions.
+- EFG% (Effective Field Goal Percentage): A shooting efficiency statistic that accounts for the fact that 3-point shots are worth more than 2-point shots.
+- TS% (True Shooting Percentage): A measure of shooting efficiency that considers field goals, free throws, and 3-point shots.
+- USG% (Usage Percentage): The percentage of team plays that a player was involved in while they were on the court, measured by shot attempts, free throw attempts, and turnovers.
+- AST% (Assist Percentage): The percentage of teammate field goals a player assisted while on the floor.
+- AST/TO (Assist to Turnover Ratio): The ratio of assists to turnovers a player records.
+- OREB% (Offensive Rebounding Percentage): The percentage of available offensive rebounds a player grabs while on the floor.
+- DREB% (Defensive Rebounding Percentage): The percentage of available defensive rebounds a player grabs while on the floor.
+- REB% (Total Rebounding Percentage): The percentage of total available rebounds a player grabs (both offensive and defensive).
+- TO RATIO (Turnover Ratio): The number of turnovers a player commits per 100 possessions.
+- PACE (Pace): The number of turnovers a player commits per 100 possessions.
 - AGE
+- PIE (Player Impact Estimates): Player Impact Estimate (PIE) is an all-encompassing statistic that measures a player's overall statistical contribution in a game. PIE aims to calculate a player's impact on the game by considering all aspects of their performance, such as scoring, rebounding, assists, steals, blocks, and turnovers. It reflects the percentage of game events in which a player has a positive contribution. 
 
