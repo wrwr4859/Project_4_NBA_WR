@@ -84,3 +84,20 @@ The dataset consists of NBA player playoff statistics from 2007 to 2024, with ar
 - **Model Refinement**: Further tuning of neural networks and exploration of other models (e.g., XGBoost).
 - **New Metrics**: Integrate advanced player tracking data or defensive metrics to improve prediction accuracy.
 - **Expanded Timeframe**: Apply the model to more extensive regular-season datasets and compare performance trends.
+
+## Terminology
+- MIN (Minutes Played)
+- OFFRTG (Offensive Rating)
+- DEFRTG (Defensive Rating)
+- EFG% (Effective Field Goal Percentage)
+- TS% (True Shooting Percentage)
+- USG% (Usage Percentage)
+- AST% (Assist Percentage)
+- AST/TO (Assist to Turnover Ratio)
+- OREB% (Offensive Rebounding Percentage)
+- DREB% (Defensive Rebounding Percentage)
+- REB% (Total Rebounding Percentage)
+- TO RATIO (Turnover Ratio)
+- PACE (Pace)
+- AGE
+
