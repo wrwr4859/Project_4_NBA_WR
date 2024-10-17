@@ -86,6 +86,12 @@ The dataset consists of NBA player playoff statistics from 2007 to 2024, with ar
 - **Expanded Timeframe**: Apply the model to more extensive regular-season datasets and compare performance trends.
 - **Feature Engineering**: Include additional feature engineering in the model to explore interaction amongs independent variables and their impact on PIE.
 
+## Real World Application
+-  Teams can input a player's recent performance data (offensive and defensive ratings, shooting efficiency, usage rate, etc.) to estimate their future contributions. This helps scouts and teams prioritize certain players for trades, drafts, or signings
+-  If the model suggests that players with higher TS% or USG% have better impact, coaches can design tailored training regimens to improve these specific skills for players with lower PIEs, accelerating their development.
+-  Teams can adjust their strategy by favoring players with stronger performance metrics in key areas like rebounding (DREB%) or shooting efficiency (TS%) during critical games. The model allows real-time analysis of which lineups or player rotations will likely result in the best overall team performance.
+  
+
 ## Terminology
 - MIN (Minutes Played)
 - OFFRTG (Offensive Rating)
